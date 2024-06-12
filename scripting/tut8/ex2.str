@@ -1,0 +1,10 @@
+// Example 2 for our string compiler
+
+print "Answer to the Ultimate " +
+      "Question of Life, the Universe and Everything > ";
+input answer;
+if (answer == "42")
+   print "Right!";
+else
+   print "Wrong!";
+
